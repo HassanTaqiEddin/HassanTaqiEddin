@@ -6,7 +6,7 @@
 
 ## Profile
 
-I am a fifth-year Computer Engineering student with extensive experience in FPGA and ASIC development. My expertise spans Verilog, SystemVerilog, UVM, and tools like Quartus and ModelSim. I am proficient in hardware verification, simulation, and emulation, and skilled in C++, Python, and computer architecture. My passion lies in hands-on projects and contributing to innovative hardware designs in dynamic engineering teams.
+I am  Computer Engineering graduate with extensive experience in FPGA and ASIC development. My expertise spans Verilog, SystemVerilog, UVM, and tools like Quartus and ModelSim. I am proficient in hardware verification, simulation, and emulation, and skilled in C++, Python, and computer architecture. My passion lies in hands-on projects and contributing to innovative hardware designs in dynamic engineering teams.
 
 ## Skills
 
